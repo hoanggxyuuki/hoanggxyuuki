@@ -6,10 +6,10 @@
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
-<p>Try my chatbot <a href="https://hoanggxyuuki.github.io/ChatBot_js/">:Click me</a></p>
 <br/>
 
 <div align="center">
+<p>Try my chatbot <a href="https://hoanggxyuuki.github.io/ChatBot_js/">:Click me</a></p>
 
  🌍 I'm based in Vietnamese 
  
