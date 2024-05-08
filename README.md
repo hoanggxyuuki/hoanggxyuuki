@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
-
+<p>Try my chatbot <a href="https://hoanggxyuuki.github.io/ChatBot_js/">:Click me</a></p>
 <br/>
 
 <div align="center">
@@ -58,7 +58,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-<p>Try my chatbot <a href="https://hoanggxyuuki.github.io/ChatBot_js/">Click me</a></p>
+
 <hr/>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
