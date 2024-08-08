@@ -5,11 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Huy+Hoang!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+<h3 align="center">I'm a Software Developers</h3>
 <br/>
 
 <div align="center">
-<p>Try my chatbot <a href="https://hoanggxyuuki.github.io/ChatBot_js/">:Click me</a></p>
+
 
  🌍 I'm based in Vietnamese 
  
