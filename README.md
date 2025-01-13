@@ -54,7 +54,7 @@
 <br>
 
 
-<hr/>
+
 <br>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoanggxyuuki&theme=jolly" width="97%" height="auto" />
