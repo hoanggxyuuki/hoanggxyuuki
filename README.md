@@ -52,6 +52,26 @@
   <br/><br/><br/>
 <hr/>
 <br>
+
+
+<hr/>
+<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoanggxyuuki&theme=jolly" width="97%" height="auto" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoanggxyuuki&theme=dracula" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoanggxyuuki&theme=city_lights" width="48%" height="auto" style="display: inline;" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoanggxyuuki&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoanggxyuuki&theme=ayu_mirage&utcOffset=8" width="48%" height="auto" style="display: inline;" />
+</div>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanggxyuuki&bg_color=auto&color=ffd580&line=65f207&point=2c42ed&area=true&hide_border=fals" width="96%" height="auto" >
+</p>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -59,8 +79,10 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-<br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hoanggxyuuki&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="hoanggxyuuki"/></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanggxyuuki&theme=radical&layout=pie"/> </p>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
@@ -77,3 +99,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+
