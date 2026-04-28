@@ -58,21 +58,45 @@ mode:        Bug Bounty Hunter
 </div>
 
 ---
-
-## `stack // loadout`
+## `stack // loadout (redteam)`
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,python,php,linux,git,github,vscode&theme=dark" />
+<!-- Core -->
+<img src="https://img.shields.io/badge/Kali%20Linux-050B12?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Linux-050B12?style=for-the-badge&logo=linux&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Bash-050B12?style=for-the-badge&logo=gnubash&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Python-050B12?style=for-the-badge&logo=python&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Git-050B12?style=for-the-badge&logo=git&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/GitHub-050B12?style=for-the-badge&logo=github&logoColor=00FF9C" />
+
+<br/>
+
+<!-- Recon / Scanning -->
+<img src="https://img.shields.io/badge/Nmap-050B12?style=for-the-badge&logo=nmap&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Wireshark-050B12?style=for-the-badge&logo=wireshark&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Metasploit-050B12?style=for-the-badge&logo=metasploit&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Burp%20Suite-050B12?style=for-the-badge&logo=burpsuite&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/OWASP-050B12?style=for-the-badge&logo=owasp&logoColor=00FF9C" />
+
+<br/>
+
+<!-- Web / Dev (useful for BBH) -->
+<img src="https://img.shields.io/badge/Node.js-050B12?style=for-the-badge&logo=node.js&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/PHP-050B12?style=for-the-badge&logo=php&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/MySQL-050B12?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/MongoDB-050B12?style=for-the-badge&logo=mongodb&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Firebase-050B12?style=for-the-badge&logo=firebase&logoColor=00FF9C" />
 
 </div>
 
 ```bash
-frontend:    react • redux • tailwind • mui
-backend:     node • express • php
-db/cloud:    mongodb • mysql • firebase
+recon:       osint • subdomain enum • content discovery • nuclei
+web:         burp suite • oauth/jwt • xss • sqli • ssrf • idor
+network:     nmap • wireshark • basic exploitation
+cloud:       aws basics • firebase • misconfig hunting
+scripting:   python • bash • nodejs • php
 ops/tools:   linux • git • github
 ```
-
 ---
 
 ## `telemetry`
