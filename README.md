@@ -1,102 +1,108 @@
-
-<div align="center"> <img src="http://nhhoang.io.vn/assets/hoanggxyuuki-bnw-0_lz.png" width="30px" height="30px"> </div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Huy+Hoang!;" />
-</h1>
-
-<h3 align="center">I'm a Software Developers</h3>
-<br/>
-
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050B12,50:0B1220,100:050B12&height=120&section=header&text=ACCESS%20GRANTED&fontSize=34&fontColor=00FF9C&fontAlignY=55&desc=hoanggxyuuki%20//%20Nguyen%20Huy%20Hoang&descAlignY=80&descSize=14"/>
 
- 🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently working as **freelance**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=840&lines=%3E+booting+profile...;%3E+loading+modules%3A+web+%7C+api+%7C+automation;%3E+status%3A+bug+bounty+active;%3E+ping%3A+linkedin+%7C+email" />
 
- 
- 
- </div>
+<br/>
 
-<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=hoanggxyuuki&style=for-the-badge&color=00FF9C" />
+<img src="https://img.shields.io/github/followers/hoanggxyuuki?style=for-the-badge&color=00FF9C&labelColor=050B12" />
+
+</div>
+
+---
+
+## `whoami`
+```bash
+user:        Nguyen Huy Hoang
+handle:      hoanggxyuuki
+location:    Vietnam (UTC+7)
+role:        RedTeam
+mode:        Bug Bounty Hunter
+```
+
+## `connect`
+<div align="center">
   <a href="mailto:hoang03072005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/email-050B12?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=050B12" />
   </a>
-  <a href="https://www.linkedin.com/in/hoanggxyuuki/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/hoanggxyuuki/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-050B12?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=050B12" />
   </a>
-  <a href="https://nhhoang.io.vn" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://nhhoang.io.vn" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/portfolio-050B12?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=050B12" />
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
+---
+
+## `bug bounty terminals`
 <div align="center">
-<a href="https://www.upwork.com/freelancers/hoanggxyuuki" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.fiverr.com/hoanggxyuuki?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.freelancer.com/u/hoanggxyuuki" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq95LWYaREtQFNUzttBO0jdCOD2XXkhwQ9kg&s" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.peopleperhour.com/freelancer/hoanggxyuuki" target="_blank" rel="noreferrer"><img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://hackerone.com/hoanggxyuuki?type=user" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HackerOne-050B12?style=for-the-badge&logo=hackerone&logoColor=00FF9C&labelColor=050B12" />
+  </a>
+
+  <a href="https://app.intigriti.com/researcher/profile/hoanggxyuuki" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Intigriti-050B12?style=for-the-badge&logo=intigriti&logoColor=00FF9C&labelColor=050B12" />
+  </a>
+
+  <!-- Add more if you have accounts -->
+  <a href="https://bugcrowd.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bugcrowd-050B12?style=for-the-badge&logo=bugcrowd&logoColor=00FF9C&labelColor=050B12" />
+  </a>
+
+  <a href="https://www.yeswehack.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YesWeHack-050B12?style=for-the-badge&logo=yeswehack&logoColor=00FF9C&labelColor=050B12" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966" alt="giphy" />
-</p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+---
+
+## `stack // loadout`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,python,php,linux,git,github,vscode&theme=dark" />
+
+</div>
+
+```bash
+frontend:    react • redux • tailwind • mui
+backend:     node • express • php
+db/cloud:    mongodb • mysql • firebase
+ops/tools:   linux • git • github
+```
+
+---
+
+## `telemetry`
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoanggxyuuki&theme=github_dark" />
+
 <br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoanggxyuuki&theme=github_dark" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoanggxyuuki&theme=github_dark" />
+
+<br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoanggxyuuki&theme=github_dark" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoanggxyuuki&theme=github_dark&utcOffset=7" />
+
+</div>
+
+---
+
+## `activity`
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,javascript,redux,styledcomponents,python,php,linux,express" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoanggxyuuki&bg_color=050B12&color=00FF9C&line=00b7ff&point=7c3aed&area=true&hide_border=true" />
 </div>
-  <br/><br/><br/>
-<hr/>
-<br>
 
-
-
-<br>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoanggxyuuki&theme=jolly" width="97%" height="auto" />
-</div>
+---
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoanggxyuuki&theme=dracula" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoanggxyuuki&theme=city_lights" width="48%" height="auto" style="display: inline;" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=650&color=00FF9C&center=true&vCenter=true&width=840&lines=%3E+end+of+file.;%3E+dm+for+collab+%2F+responsible+disclosure." />
+
 </div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoanggxyuuki&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoanggxyuuki&theme=ayu_mirage&utcOffset=8" width="48%" height="auto" style="display: inline;" />
-</div>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanggxyuuki&bg_color=auto&color=ffd580&line=65f207&point=2c42ed&area=true&hide_border=fals" width="96%" height="auto" >
-</p>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hoanggxyuuki&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="hoanggxyuuki"/></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanggxyuuki&theme=radical&layout=pie"/> </p>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="hoanggxyuuki">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanggxyuuki&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="hoanggxyuuki">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hoanggxyuuki&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
