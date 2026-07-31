@@ -33,6 +33,9 @@ mode:        Bug Bounty Hunter
   <a href="https://nhhoang.io.vn" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/portfolio-050B12?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=050B12" />
   </a>
+<a href="https://blog.nhhoang.io.vn" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/My%20Blog-050B12?style=for-the-badge&logo=hashnode&logoColor=00FF9C&labelColor=050B12" />
+</a>
 </div>
 
 ---
